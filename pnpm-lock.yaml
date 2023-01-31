@@ -4,14 +4,14 @@ specifiers:
   '@types/react': ^18.0.26
   '@types/react-dom': ^18.0.9
   '@vitejs/plugin-react-swc': ^3.0.0
-  react: 18.3.0-next-3ba7add60-20221201
-  react-dom: 18.3.0-next-3ba7add60-20221201
+  react: 18.3.0-next-b0671f9ea-20230130
+  react-dom: 18.3.0-next-b0671f9ea-20230130
   typescript: ^4.9.3
   vite: ^4.0.0
 
 dependencies:
-  react: 18.3.0-next-3ba7add60-20221201
-  react-dom: 18.3.0-next-3ba7add60-20221201_osgg5tsgainv67oqv2d3ptcxsm
+  react: 18.3.0-next-b0671f9ea-20230130
+  react-dom: 18.3.0-next-b0671f9ea-20230130_ylpad7q5i2gn2f5m53qrnjqbru
 
 devDependencies:
   '@types/react': 18.0.27
@@ -451,18 +451,18 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /react-dom/18.3.0-next-3ba7add60-20221201_osgg5tsgainv67oqv2d3ptcxsm:
-    resolution: {integrity: sha512-v9XF5iF4r/6Ijcsn4TgF1ZNq5EbuLRQDUyq8FRamBWTbrjbA7lXWdpN6qRU+eBVgT5zxiBdL4ZCC/a+7bgMIYA==}
+  /react-dom/18.3.0-next-b0671f9ea-20230130_ylpad7q5i2gn2f5m53qrnjqbru:
+    resolution: {integrity: sha512-vkX7x97+Vjszv/egABU7ke0LKUy2Q6Ol6OxPNfIn4jEl8Rk8BeF+q2MRuy1fHHF9MyuZjoUGJvs1NmWAGJB6Ug==}
     peerDependencies:
-      react: 18.3.0-next-3ba7add60-20221201
+      react: 18.3.0-next-b0671f9ea-20230130
     dependencies:
       loose-envify: 1.4.0
-      react: 18.3.0-next-3ba7add60-20221201
-      scheduler: 0.24.0-next-3ba7add60-20221201
+      react: 18.3.0-next-b0671f9ea-20230130
+      scheduler: 0.24.0-next-b0671f9ea-20230130
     dev: false
 
-  /react/18.3.0-next-3ba7add60-20221201:
-    resolution: {integrity: sha512-/hwADSpnz/GeDEljbg7Z2mF2MaYw7V1CsdbGvvhCUse4RvaRueHjcH7B/jbik8wRll3rxBPlomt15rSjIMjEJQ==}
+  /react/18.3.0-next-b0671f9ea-20230130:
+    resolution: {integrity: sha512-DuxhfMRyi6eKmK9T6lpfhJfBGp4HOLta0yK/fBluvGJ7lKjjwiYhIgO7q3CyvslUvrEiQQUJdTgpwdxFEOE4ig==}
     engines: {node: '>=0.10.0'}
     dependencies:
       loose-envify: 1.4.0
@@ -485,8 +485,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /scheduler/0.24.0-next-3ba7add60-20221201:
-    resolution: {integrity: sha512-AF0rxaEU3vzEatNQORHkPwzYU8ZkVEcQA240QddSriy4rI35vzaRr1xs/fv7KPVTL1bwZlcu088cp80UOsUeWQ==}
+  /scheduler/0.24.0-next-b0671f9ea-20230130:
+    resolution: {integrity: sha512-NmDSZhh8xRE+tdXFl+Z0Mx0JDuJozHcIP/fIVuPsgDfP2z7SlJq6kWMPnH+qATOKBCG6ljhDJpBC1AyJ7aMIfg==}
     dependencies:
       loose-envify: 1.4.0
     dev: false
